@@ -16,7 +16,7 @@
    * Create a folder 'src' under C:\ drive
    * Use command prompt and switch to C:\src _[learn more](https://www.howtogeek.com/659411/how-to-change-directories-in-command-prompt-on-windows-10/)_
    * C:\src>git clone https://github.com/flutter/flutter.git -b stable
-   * Update Path [learn more](https://flutter.dev/docs/get-started/install/windows#update-your-path)
+   * Update Path _[learn more](https://flutter.dev/docs/get-started/install/windows#update-your-path)_
       * Add "C:\src\flutter\bin" (without quotation) to paths list
 1. [Install Visual Studio Code](https://code.visualstudio.com)
    * Type “flutter” in the extensions search field, select Flutter in the list, and click Install. This also installs the required Dart plugin.
