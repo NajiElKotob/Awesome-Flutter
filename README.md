@@ -40,5 +40,6 @@
 ## Learning
 * [How to Build Flutter Apps for iOS and Android](https://www.youtube.com/watch?v=I9ceqw5Ny-4&list=PLSzsOkUDsvdtl3Pw48-R8lcK2oYkk40cm) - London App Brewery
 * [Flutter Course - Full Tutorial for Beginners (Build iOS and Android Apps)](https://www.youtube.com/watch?v=pTJJsmejUOQ) - freeCodeCamp.org
-* [Flutter Crash Course for Beginners 2020 - Build a Flutter App with Google's Flutter & Dart](https://www.youtube.com/watch?v=x0uinJvhNxI)
+* [Flutter Crash Course for Beginners 2020 - Build a Flutter App with Google's Flutter & Dart](https://www.youtube.com/watch?v=x0uinJvhNxI) - Academind
+* [Flutter Crash Course](https://www.youtube.com/watch?v=1gDhl4leEzA) - Traversy Media
 
