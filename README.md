@@ -33,3 +33,7 @@
    
 ## Development
 * [Creating a new project](https://flutter.dev/docs/development/tools/vs-code#creating-projects) - flutter.dev
+
+
+## Learning
+* [How to Build Flutter Apps for iOS and Android](https://www.youtube.com/watch?v=I9ceqw5Ny-4&list=PLSzsOkUDsvdtl3Pw48-R8lcK2oYkk40cm) - London App Brewery
