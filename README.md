@@ -1,6 +1,6 @@
 # Awesome Flutter
 
-{Work in Process}
+{Work in Process, Stay Tuned}
 
 ## Official References
 * [Flutter](https://flutter.dev/) - flutter.dev
@@ -13,7 +13,8 @@
 1. [Install Git for Windows](https://git-scm.com/download/win)
     * Note: Choose VS Code as default editor
 1. [Get the Flutter SDK](https://flutter.dev/docs/get-started/install/windows#get-the-flutter-sdk)
-   * Create a folder 'src' under c:\ drive
+   * Create a folder 'src' under C:\ drive
+   * Use command prompt and switch to C:\src [learn more](https://www.howtogeek.com/659411/how-to-change-directories-in-command-prompt-on-windows-10/)
    * C:\src>git clone https://github.com/flutter/flutter.git -b stable
 1. [Install Visual Studio Code](https://code.visualstudio.com)
    * Type “flutter” in the extensions search field, select Flutter in the list, and click Install. This also installs the required Dart plugin.
