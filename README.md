@@ -19,7 +19,11 @@
 1. [Run flutter doctor](C:\src\flutter\bin>flutter doctor) 
 1. [Install Java SE Development Kit](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html)
 1. [Install Android SDK Tools only](http://android.cn-mirrors.com/sdk/index.html#Other)
-   * Note: Install Tools first
-
+   * Note: Install Tools first, Run SDK Manager.exe as Adminstrator
+   
+## Upgrade
+* [Upgrade the Flutter SDK]
+   * C:\src\flutter\bin>flutter upgrade
+   
 ## Development
 * [Creating a new project](https://flutter.dev/docs/development/tools/vs-code#creating-projects) - flutter.dev
