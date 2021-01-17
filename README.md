@@ -16,6 +16,7 @@
 1. [Get the Flutter SDK](https://flutter.dev/docs/get-started/install/windows#get-the-flutter-sdk)
     * C:\src>git clone https://github.com/flutter/flutter.git -b stable
 1. [Install Java SE Development Kit](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html)
+1. [Install Android SDK Tools only](http://android.cn-mirrors.com/sdk/index.html#Other)
 
 ## Development
 * [Creating a new project](https://flutter.dev/docs/development/tools/vs-code#creating-projects) - flutter.dev
