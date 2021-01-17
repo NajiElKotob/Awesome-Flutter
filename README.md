@@ -21,11 +21,11 @@
       * Add "C:\src\flutter\bin" (without quotation) to paths list
 1. [Install Visual Studio Code](https://code.visualstudio.com)
    * Type “flutter” in the extensions search field, select Flutter in the list, and click Install. This also installs the required Dart plugin.
-1. [Run flutter doctor](https://flutter.dev/docs/get-started/install/windows#run-flutter-doctor)
-   * C:\src\flutter\bin>flutter doctor
 1. [Install Java SE Development Kit](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html)
 1. [Install Android SDK Tools only](http://android.cn-mirrors.com/sdk/index.html#Other)
    * Note: Install Tools first, Run SDK Manager.exe as Adminstrator
+1. [Run flutter doctor](https://flutter.dev/docs/get-started/install/windows#run-flutter-doctor)
+   * C:\src\flutter\bin>flutter doctor   
    
 ## Upgrade
 * [Upgrade the Flutter SDK](https://flutter.dev/docs/development/tools/sdk/upgrading)
