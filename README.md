@@ -5,6 +5,7 @@
 ## Official References
 * [Flutter](https://flutter.dev/) - flutter.dev
 * [Flutter Docs](https://flutter.dev/docs) - Flutter documentation
+* [Flutter (YouTube)](https://www.youtube.com/watch?v=fq4N0hgOWzU&list=PLOU2XLYxmsIJ7dsVN4iRuA7BT8XHzGtCr) - Google Developers
 
 
 
