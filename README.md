@@ -39,7 +39,7 @@
 
 ## Learning
 ### Articles
-* [Write your first Flutter app](https://flutter.dev/docs/get-started/codelab) - flutter.dev
+* Write your first Flutter app [part 1](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1) and [part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2) - flutter.dev
 
 ### Videos
 * [How to Build Flutter Apps for iOS and Android](https://www.youtube.com/watch?v=I9ceqw5Ny-4&list=PLSzsOkUDsvdtl3Pw48-R8lcK2oYkk40cm) - London App Brewery
