@@ -10,3 +10,4 @@
 
 ## Setup and Configuration
 * [Windows install](https://flutter.dev/docs/get-started/install/windows)
+1. [Get and Install Visual Studio Code](https://code.visualstudio.com)
