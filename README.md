@@ -22,7 +22,7 @@
    * Note: Install Tools first, Run SDK Manager.exe as Adminstrator
    
 ## Upgrade
-* [Upgrade the Flutter SDK]
+* [Upgrade the Flutter SDK](https://flutter.dev/docs/development/tools/sdk/upgrading)
    * C:\src\flutter\bin>flutter upgrade
    
 ## Development
