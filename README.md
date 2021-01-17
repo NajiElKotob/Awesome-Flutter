@@ -14,7 +14,7 @@
     * Note: Choose VS Code as default editor
 1. [Get the Flutter SDK](https://flutter.dev/docs/get-started/install/windows#get-the-flutter-sdk)
    * Create a folder 'src' under C:\ drive
-   * Use command prompt and switch to C:\src [learn more](https://www.howtogeek.com/659411/how-to-change-directories-in-command-prompt-on-windows-10/)
+   * Use command prompt and switch to C:\src _[learn more](https://www.howtogeek.com/659411/how-to-change-directories-in-command-prompt-on-windows-10/)_
    * C:\src>git clone https://github.com/flutter/flutter.git -b stable
    * Update Path [learn more](https://flutter.dev/docs/get-started/install/windows#update-your-path)
       * Add "C:\src\flutter\bin" (without quotation) to paths list
