@@ -17,3 +17,5 @@
     * C:\src>git clone https://github.com/flutter/flutter.git -b stable
 1. [Install Java SE Development Kit](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html)
 
+## Development
+* [Creating a new project](https://flutter.dev/docs/development/tools/vs-code#creating-projects) - flutter.dev
