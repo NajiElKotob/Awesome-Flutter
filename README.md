@@ -11,6 +11,7 @@
 
 ## Setup and Configuration
 * [Windows install](https://flutter.dev/docs/get-started/install/windows)
+1. [Install Java SE Development Kit](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html)
 1. [Install Git for Windows](https://git-scm.com/download/win)
     * Note: Choose VS Code as default editor
 1. [Get the Flutter SDK](https://flutter.dev/docs/get-started/install/windows#get-the-flutter-sdk)
@@ -21,7 +22,6 @@
       * Add "C:\src\flutter\bin" (without quotation) to paths list
 1. [Install Visual Studio Code](https://code.visualstudio.com)
    * Type “flutter” in the extensions search field, select Flutter in the list, and click Install. This also installs the required Dart plugin.
-1. [Install Java SE Development Kit](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html)
 1. [Install Android SDK Tools only](http://android.cn-mirrors.com/sdk/index.html#Other)
    * Note: Install Tools first, Run SDK Manager.exe as Adminstrator
 1. [Add custom skin](https://developer.samsung.com/galaxy-emulator-skin/guide.html)
